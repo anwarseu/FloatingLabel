@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">FloatingLabel</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_submit">Submit</string>
+
+    <string name="msg_err_name">Enter your name</string>
+    <string name="msg_err_email">Enter valid email address</string>
+    <string name="msg_err_phone">Enter valid phone number</string>
+    <string name="msg_err_password">Enter password</string>
+</resources>
